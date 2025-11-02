@@ -1,3 +1,5 @@
+THIS REPO IS DEPRECATED AND WILL BE ARCHIVED SOON!!! STAY TUNED FOR UPDATES
+
 # Arkhon Memory SDK
 
 **Clean, LOCAL (!!!), long-term memory for autonomous LLM agents and agentic systems.**  
